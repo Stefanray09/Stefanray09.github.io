@@ -1,0 +1,31 @@
+h1 {
+    color:blueviolet;
+    font-size: 32px;
+}
+header {
+    height: 70px;
+    background-color:white;
+   
+    
+
+}
+body {
+    margin:0 ;
+}
+header img {
+    height: 80%;
+    
+}
+.header-content{
+    height: 100%;
+    width: 1024px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+main {
+    width: 1024px;
+    background-color: rgb(243, 238, 238);
+    margin: auto;
+    padding: 20px;
+}
